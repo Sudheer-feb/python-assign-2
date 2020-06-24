@@ -1,0 +1,5 @@
+print("i am a beginner in python")
+print("i am a beginner in python")
+print("i am a beginner in python")
+print("i am a beginner in python")
+print("i am a beginner in python")
